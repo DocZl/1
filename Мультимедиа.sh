@@ -54,3 +54,4 @@ SOURCE="${BASH_SOURCE[0]}"
                                 cd $DIR
                                 bash ./Программы.sh
 fi
+d
